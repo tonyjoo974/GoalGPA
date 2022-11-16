@@ -4,10 +4,10 @@
 App Store link: https://apps.apple.com/us/app/goalgpa/id1585731534
 <br>
 <p float="left" align="middle">
-  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/1.png" width="25%" />
-  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/2.png" width="25%" />
-  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/3.png" width="25%" />
-  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/4.png" width="25%" />
+  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/1.png" width="35%" />
+  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/2.png" width="35%" />
+  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/3.png" width="35%" />
+  <img src="https://github.com/tonyjoo974/GoalGPA/blob/main/screenshots/4.png" width="35%" />
 </p>
 <br>
 ## Website is currently under construction.
